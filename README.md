@@ -6,6 +6,9 @@ This Application contains basic back end service which can help us having CRUD o
 
     > npm install
 
+- Create .env file & add the Port for running server on localhost:8080
+  > PORT=8080
+
 ## Running B.E Server app
 
 ### Dev Env with nodemon for dev testing avoiding multple restarts
