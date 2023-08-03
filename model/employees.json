@@ -1,0 +1,9 @@
+[
+    {
+        "employeeName": "Yash Sharma",
+        "age":32,
+        "salaryAmount":32000,
+        "email":"yasharma9391@gmail.com",
+        "degreeDetails" :["MTech", "BTech"]
+    }
+]
